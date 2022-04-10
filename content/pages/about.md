@@ -7,7 +7,7 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi 🐻
 
 > Me llamo Viridiana, tengo 28 años. Soy de Mexicali, B.C.
 > Estudié diseño gráfico pero trabajo más en el área de diseño y desarrollo web.
